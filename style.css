@@ -1,0 +1,18 @@
+h1{
+	font-size: 40px;
+	font-family: serif;
+	background-color: #f3f372;
+}
+p{
+	font-size: 20px;
+	font-family: "lucida grande";
+}
+img{
+	height: 50px;
+	width: 70px;
+}
+.list{
+	list-style: none;
+	color: blue;
+
+}
